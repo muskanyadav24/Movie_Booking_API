@@ -56,7 +56,6 @@ project/
 ## ⚙️ Installation
 
 ```bash
-git clone <your-repo-link>
 cd project
 npm install
 ```
